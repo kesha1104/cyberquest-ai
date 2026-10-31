@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-30T18:01:47.990Z",
+  "checks": [
+    "Malformed object and unknown-action validation",
+    "Cross-origin request and oversized payload rejection",
+    "Secure HttpOnly SameSite cookie, no-store, no raw token in state",
+    "Concurrent starts create exactly one match",
+    "Answer bounds, stale match and wrong-round rejection",
+    "Database-backed mutation rate limit returns 429"
+  ]
+}
