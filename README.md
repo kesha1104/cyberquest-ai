@@ -2,8 +2,10 @@
 
 A browser-based multiplayer cybersecurity education game for 2–6 players. Built for the Handshake AI Skills Studio “Create a Multiplayer Game” challenge.
 
-## Play
+## Project Preview
+![CyberQuest AI multiplayer cybersecurity game dashboard](multiplayer_game.jpg)
 
+## Play
 Public game: https://cyberquest-ai-kesha.sunsettune17.chatgpt.site/
 
 1. Open the public game URL, enter a nickname, and create a room.
