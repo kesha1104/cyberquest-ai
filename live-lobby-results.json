@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-30T18:13:55.092Z",
+  "base": "https://cyberquest-ai-kesha.sunsettune17.chatgpt.site",
+  "checks": [
+    "Public independent sessions enforce two-player minimum and host authorization",
+    "Real 20-second missed guest heartbeat no longer intermittently blocks host launch",
+    "Real >45-second absence rejects start with specific active-player diagnostic",
+    "Guest reconnection and host session refresh restore launch without creating a new room",
+    "Repeated production room creation/join/start works with reused anonymous sessions"
+  ]
+}

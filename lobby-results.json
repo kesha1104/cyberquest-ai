@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-30T18:06:46.030Z",
+  "checks": [
+    "16-second transient heartbeat gap allows a two-player launch within bounded presence grace",
+    "Returning host heartbeat is renewed before host expiry/authorization check",
+    "Truly stale guest blocks replay with explicit active-player reason; two-player minimum preserved",
+    "Guest reconnect plus host refresh restores readiness and replay resets scores",
+    "Delayed start from an earlier match cannot accidentally start another replay",
+    "Actual host absence still transfers ownership; former host cannot start",
+    "Missing session and non-member session distinguished without exposing tokens",
+    "Four create/join/start/refresh/replay cycles cover independent and reused sessions"
+  ]
+}

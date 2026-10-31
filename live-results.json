@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-30T17:24:04.382Z",
+  "base": "https://cyberquest-ai-kesha.sunsettune17.chatgpt.site",
+  "checks": [
+    "Reject invalid nickname",
+    "Create anonymous room and session cookie",
+    "Reject start with one connected player",
+    "Join separate cookie session; reject non-host start",
+    "Concurrent joins enforce six-player capacity",
+    "Room full, room authorization, invalid-room states",
+    "Round 1: shared evidence/deadline; no answer leakage",
+    "Round 1: concurrent duplicate answers lock once; scores withheld until reveal",
+    "Round 1: reveal, educational explanation, scoring, late-answer rejection",
+    "Round 2: shared evidence/deadline; no answer leakage",
+    "Round 2: concurrent duplicate answers lock once; scores withheld until reveal",
+    "Round 2: reveal, educational explanation, scoring, late-answer rejection",
+    "Reconnect with same cookie restores identity, locked answer and match",
+    "Round 3: shared evidence/deadline; no answer leakage",
+    "Round 3: concurrent duplicate answers lock once; scores withheld until reveal",
+    "Round 3: reveal, educational explanation, scoring, late-answer rejection",
+    "Round 4: shared evidence/deadline; no answer leakage",
+    "Round 4: concurrent duplicate answers lock once; scores withheld until reveal",
+    "Round 4: reveal, educational explanation, scoring, late-answer rejection",
+    "Round 5: shared evidence/deadline; no answer leakage",
+    "Round 5: concurrent duplicate answers lock once; scores withheld until reveal",
+    "Round 5: reveal, educational explanation, scoring, late-answer rejection",
+    "Five-round synchronized final leaderboard: host 500, guest 0",
+    "Replay retains room, starts new match, clears scores and answers",
+    "Host departure transfers control"
+  ]
+}
